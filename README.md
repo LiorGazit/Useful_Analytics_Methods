@@ -2,7 +2,7 @@
 In this repo I put together some simple functions that are used for various analytics projects.   
 
 ### 1. Colab Notebook Introducing the `dtale` and `pandas-profiling` Libraries for Quickly Review and Also Analyzing Data Tables:
- [Demonstrating_dtale_and_pandas_profiling(colab).ipynb](https://github.com/LiorGazit/Publications_and_Documents/blob/master/Demonstrating_dtale_and_pandas_profiling(colab).ipynb)
+ [Demonstrating_dtale_and_pandas_profiling(colab).ipynb](https://github.com/LiorGazit/Useful_Analytics_Methods/blob/master/Demonstrating_dtale_and_pandas_profiling(colab).ipynb)
 
 #### Data of both text and numeric values:
 ![image](https://user-images.githubusercontent.com/25872732/119412578-1eb43e80-bcba-11eb-93b8-ddb4ec84f39b.png)
